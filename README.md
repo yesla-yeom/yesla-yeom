@@ -7,22 +7,17 @@
 ***
 
 
-1. 프론트엔드
-* [HTML 사용법](https://yesla.notion.site/HTML-Wiki-87c3d69aa99a437492491596a3696ca4) 
-* [CSS 사용법](https://yesla.notion.site/CSS-Wiki-07c3ef1697194a22857601dfb1dad3f0)
-* [JavaScript 사용법](https://yesla.notion.site/JavaScript-Wiki-699aa0012e70492cbaaa9224ee1a62e2)
-2. 백엔드
-3. 블록체인
+## Click ☞ __[YESLA's Blog](https://yesla.tistory.com/)__ ☜
 
 
 ***
 
 
-> 팀 프로젝트
+> __[팀 프로젝트](https://yesla.notion.site/048c5185ba664c488bc44b995eecd572?v=1e5f607922ed4bcc90ccc0c01e4cab8c)
 
 
 > 개인 프로젝트
 
 
 ***
-### 수정해야 되는데 
+### 수정 필요 
